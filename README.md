@@ -16,9 +16,4 @@ The analysis was conducted using the R programming language, leveraging various 
 The dataset comprises match results, player statistics, and referee performance data from the EPL, focusing on games officiated by referees who presided over at least 20 matches during the five seasons.
 
 ## Contributions
-Alex Marzban
-Alicja Mahr
-Arya Antara
-Lance Yoon
-Sangwoo Kim
-Ji Hoon Lee
+Alex Marzban, Alicja Mahr, Arya Antara, Lance Yoon, Sangwoo Kim, Ji Hoon Lee
