@@ -15,13 +15,13 @@ The analysis was conducted using the R programming language, leveraging various 
 Packages Used:
 
 #### dplyr
-ggplot2
-tidyr
-lubridate
-readr
-stringr
+#### ggplot2
+#### tidyr
+#### lubridate
+#### readr
+#### stringr
 
-## Data
+## Dataset
 The dataset comprises match results, player statistics, and referee performance data from the EPL, focusing on games officiated by referees who presided over at least 20 matches during the five seasons.
 
 ## Contributions
