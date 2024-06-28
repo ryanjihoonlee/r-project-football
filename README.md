@@ -16,10 +16,12 @@ Packages Used:
 
 #### dplyr
 #### ggplot2
-#### tidyr
 #### lubridate
 #### readr
 #### stringr
+#### tidyr
+#### GGally
+#### skimr
 
 ## Dataset
 The dataset comprises match results, player statistics, and referee performance data from the English Premier League, focusing on games officiated by referees who presided over at least 20 matches during the five seasons.
